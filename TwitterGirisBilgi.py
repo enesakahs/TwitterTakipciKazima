@@ -1,0 +1,2 @@
+kullanıcıadı=""
+sifre=""
